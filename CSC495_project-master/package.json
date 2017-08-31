@@ -1,0 +1,15 @@
+{
+  "name": "csc495_project",
+  "version": "0.1.0",
+  "description": "Collect statistics about privacy news from the guardian news website",
+  "main": "fetch.js",
+  "dependencies": {
+    "guardian-js": "^1.0.7",
+    "csv": "^1.1.1",
+    "html-to-text": "^3.2.0",
+    "mysql": "^2.13.0",
+    "async": "^2.3.0"
+  },
+  "author": "michael conlon",
+  "license": "ISC"
+}

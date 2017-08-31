@@ -1,0 +1,26 @@
+The CIA has been forced to destroy data logs after being caught spying on the internet habits of visitors to its online reading room using software called cookies, despite a government ban on the practice.
+
+The agency removed the tracking software from one of its sites earlier this week, following a complaint from a private citizen who discovered the software on his machine.
+
+Mike Stepp, the manager of the CIA's public website, said the cookie had been installed inadvertently with a new software package in January.
+
+"It was a mistake on our part. It was not intentional. The public does not need to be concerned that the CIA is tracking them. We're a bit busy to be doing that," he said.
+
+Daniel Brandt, the president of a Texas -based research company, discovered the cookie last week while browsing the CIA's electronic reading room, which provides access to previously released agency documents. Mr Brandt said he discovered the "persistent" cookie - it keeps working until 2010 - and realised that the CIA "should not be doing this."
+
+He was particularly concerned because the reading room site allows users seeking documents to search for particular words.
+
+"The keywords you put in reveal an incredible amount about what you're looking for and what your interests are. It would be very, very tempting to track that kind of information," Mr Brandt said.
+
+Cookies are small software files often placed on computers without a person's knowledge. The files can make internet browsing more convenient by letting sites distinguish user preferences, but they have been criticised for violating privacy because they can track users as they move around the net.
+Advertisement
+
+The government issued strict rules for how federal agencies may use cookies in 2000 after it was discovered that the White House drug policy office had used the technology to track computer users viewing its online anti-drug advertising. The rules ban the use of "persistent" cookies like those found on the CIA site.
+
+Mr Brandt emailed the CIA with his concerns and the agency responded on Monday, removing the cookie and some other temporary cookies that were discovered.
+
+Mr Stepp explained that an outside company had loaded web analysis software while redesigning the reading room site, and that software included a cookie that tracked repeat visitors to the site.
+
+To make sure no improper information about site visitors had been recorded, Mr Stepp said two sets of log files would be destroyed.
+
+The US Congress issued a study last summer that found 300 cookies still on the websites of 23 agencies, despite the government ban.
